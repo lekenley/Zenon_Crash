@@ -4,19 +4,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "50955476339"
-global.ownername = "ᬊ᭄𝑮۝𝒅 𝖋𝖑𝖊𝖆𝖚𝖝 𝑺۝𝖚𝖐𝖚𝖓𝖆"
+global.ownernomer = "50942810512"
+global.ownername = "✮͢≛⃝𝐁𝐫𝐨𝐰𝐧𝄟✮⃝۝۝"
 global.ytname = "Toxxic Md"
-global.socialm = "ᬊ᭄𝑮۝𝒅 𝖋𝖑𝖊𝖆𝖚𝖝 𝑺۝𝖚𝖐𝖚𝖓𝖆"
+global.socialm = "✮͢≛⃝𝐁𝐫𝐨𝐰𝐧𝄟✮⃝۝۝"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = '50955476339'  //creator number
-global.ownername = 'ᬊ᭄𝑮۝𝒅 𝖋𝖑𝖊𝖆𝖚𝖝 𝑺۝𝖚𝖐𝖚𝖓𝖆' //owner name
-global.botname = 'ᬊ᭄𝑮۝𝒅 𝖋𝖑𝖊𝖆𝖚𝖝 𝑺۝𝖚𝖐𝖚𝖓𝖆' //name of the bot
+global.ownernumber = '50942810512'  //creator number
+global.ownername = '✮͢≛⃝𝐁𝐫𝐨𝐰𝐧𝄟✮⃝۝۝' //owner name
+global.botname = '۝۝ ✮͢≛⃝𝐁𝐫𝐨𝐰𝐧𝄟✮⃝//name of the bot
 
 //sticker details
-global.packname = 'ᬊ᭄𝑮۝𝒅 𝖋𝖑𝖊𝖆𝖚𝖝 𝑺۝𝖚𝖐𝖚𝖓𝖆'
-global.author = 'ᬊ᭄𝑮۝𝒅 𝖋𝖑𝖊𝖆𝖚𝖝 𝑺۝𝖚𝖐𝖚𝖓𝖆\n\nContact: 50955476339'
+global.packname = '✮͢≛⃝𝐁𝐫𝐨𝐰𝐧𝄟✮⃝ '
+global.author = '✮͢≛⃝𝐁𝐫𝐨𝐰𝐧𝄟✮⃝\n\nContact: 50955476339'
 
 //console view/theme
 global.themeemoji = '💀'
